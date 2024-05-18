@@ -1,0 +1,4 @@
+var x = "Hello, Catdog!"
+var y = 10
+
+puts x
